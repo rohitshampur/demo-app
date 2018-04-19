@@ -19,6 +19,6 @@ class TestController{
 	//test jenkins
 	@GetMapping("/")
 	public String sayHello(){
-		return "Hello Spring cloud!!!!";
+		return "Hello Spring cloud 1234!!!!";
 	}
 }
